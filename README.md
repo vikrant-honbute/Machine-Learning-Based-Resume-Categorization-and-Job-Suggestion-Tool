@@ -95,3 +95,13 @@ Make sure you have the following installed:
     -   Extracted information like Name, Phone, Email, Skills, and Education.
 
 ## 📁 Project File Structure
+
+├── app.py                            # Main Flask application logic
+├── requirements.txt                  # Python dependencies for pip
+├── templates/
+│   └── resume.html                   # HTML template for the user interface
+├── rf_classifier_categorization.pkl  # Trained model for resume categorization
+├── tfidf_vectorizer_categorization.pkl # TF-IDF vectorizer for categorization
+├── rf_classifier_job_recommendation.pkl # Trained model for job recommendation
+├── tfidf_vectorizer_job_recommendation.pkl # TF-IDF vectorizer for recommendation
+└── README.md       
