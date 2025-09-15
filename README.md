@@ -105,3 +105,4 @@ Make sure you have the following installed:
 ├── rf_classifier_job_recommendation.pkl # Trained model for job recommendation
 ├── tfidf_vectorizer_job_recommendation.pkl # TF-IDF vectorizer for recommendation
 └── README.md       
+.
